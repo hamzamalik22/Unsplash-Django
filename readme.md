@@ -31,8 +31,10 @@ This is an image sharing website built using Django, where users can upload imag
 2. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the application.
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
-![Upload Image](screenshots/upload_image.png)
+![Homepage](screenshots/Home.png)
+![Upload Image](screenshots/Upload.png)
+![Upload Image](screenshots/Upload.png)
+![Admin Panel](screenshots/Admin_Panel.png)
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, feel free to submit a pull request.
